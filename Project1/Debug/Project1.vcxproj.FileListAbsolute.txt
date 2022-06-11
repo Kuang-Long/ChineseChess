@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\桌面\project 2\Project1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\user\OneDrive\桌面\project 2\Project1\Project1\Debug\Project1.MyForm.resources
+C:\Users\user\OneDrive\桌面\project 2\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\user\OneDrive\桌面\Project2-1\Project1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\user\OneDrive\桌面\Project2-1\Project1\Project1\Debug\Project1.MyForm.resources
+C:\Users\user\OneDrive\桌面\Project2-1\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+D:\HW\物件導向\chineseChess\0524\Project1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\HW\物件導向\chineseChess\0524\Project1\Project1\Debug\Project1.MyForm.resources
+D:\HW\物件導向\chineseChess\0524\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\user\OneDrive\桌面\Project1-1-1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\user\OneDrive\桌面\Project1-1-1\Project1\Debug\Project1.MyForm.resources
+C:\Users\user\OneDrive\桌面\Project1-1-1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\user\OneDrive\桌面\象棋project\Project1-1-1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\user\OneDrive\桌面\象棋project\Project1-1-1\Project1\Debug\Project1.MyForm.resources
+C:\Users\user\OneDrive\桌面\象棋project\Project1-1-1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
